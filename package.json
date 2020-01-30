@@ -8,12 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anneb1309/poe2020.git"
+    "url": "git+https://github.com/ryuran/poe2020.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anneb1309/poe2020/issues"
+    "url": "https://github.com/ryuran/poe2020.git"
   },
-  "homepage": "https://github.com/Anneb1309/poe2020#readme"
-}
+  "homepage": "https://github.com/ryuran/poe2020.git"
