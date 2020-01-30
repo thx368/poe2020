@@ -8,9 +8,7 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
   },
   plugins: [
-    new HtmlWebpackPlugin(), // Generates default index.html
-    new HtmlWebpackPlugin({  // Also generate a test.html
-      filename: 'index.html',
+    new HtmlWebpackPlugin({
       template: 'src/index.html'
     })
 
